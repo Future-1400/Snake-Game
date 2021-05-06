@@ -1,2 +1,2 @@
 # Snake-Game
-قراردارد dist شده است و در پوشه   <exe>  ی پایتون من است که تبدیل به فایل (game.exe) فایل
+This is my game for Windowos
